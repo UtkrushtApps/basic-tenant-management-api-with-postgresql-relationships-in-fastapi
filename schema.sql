@@ -1,0 +1,1 @@
+-- Implement tables for tenants, users, and an ENUM type for subscription tier. Use foreign keys, constraints, and cascading delete for relationships.
